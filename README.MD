@@ -1,12 +1,12 @@
 # 🎓 Examination System
 
-## 📘 Project Overview
+## Project Overview
 The **Examination System** is our ITI Graduation Project — a complete platform designed to manage and analyze the entire exam process from start to finish.  
 It integrates multiple tools and technologies to cover **database design, reporting, analytics, and web interfaces**.
 
 ---
 
-## 🧩 Project Components
+## Project Components
 
 ### 1. 🗄️ Database Design
 - Created a full **ERD (Entity Relationship Diagram)** and **Database Diagram**.
@@ -43,7 +43,7 @@ Developed **6 detailed SSRS reports** to visualize:
 
 ---
 
-## 🧠 Tools & Technologies Used
+## Tools & Technologies Used
 | Category | Tools |
 |-----------|-------|
 | Database | Microsoft SQL Server |
@@ -55,7 +55,7 @@ Developed **6 detailed SSRS reports** to visualize:
 
 ---
 
-## 👥 Team Members
+## Team Members
 This project was built by a great team who worked together through all challenges and late nights:
 
 - **Omar Zahran**  
@@ -66,7 +66,7 @@ This project was built by a great team who worked together through all challenge
 
 ---
 
-## 🚀 Key Features
+## Key Features
 ✅ Dynamic question generation for each exam.  
 ✅ Secure student login and result tracking.  
 ✅ Interactive dashboards for analysis and reporting.  
@@ -75,3 +75,4 @@ This project was built by a great team who worked together through all challenge
 ✅ End-to-end integration between SQL, SSRS, and Power BI.
 
 ---
+
